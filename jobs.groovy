@@ -6,7 +6,7 @@ pipelineJob('pipelineJob') {
         }
     }
 }
-pipelineJob('theme-park-job') {
+pipelineJob('ride-managment-job') {
     definition {
         cpsScm {
             scm {
