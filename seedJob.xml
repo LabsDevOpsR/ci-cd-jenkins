@@ -27,7 +27,7 @@
     <concurrentBuild>false</concurrentBuild>
     <builders>
         <javaposse.jobdsl.plugin.ExecuteDslScripts plugin="job-dsl@1.77">
-            <targets>Jobs.groovy</targets>
+            <targets>jobs.groovy</targets>
             <usingScriptText>false</usingScriptText>
             <sandbox>false</sandbox>
             <ignoreExisting>false</ignoreExisting>
